@@ -1,5 +1,5 @@
 function showProfile() {
-    const name = document.getElementById("name").value;
+    const name = document.getElementById("user_name").value;
     const birthday = document.getElementById("birthday").value;
     
     // Get selected grade
